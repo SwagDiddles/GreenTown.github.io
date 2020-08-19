@@ -1,3 +1,9 @@
 html {
-  background: green;
+  background: rgb(174, 238, 179);
+  background: radial-gradient(circle, rgba(174, 238, 179, 1) 0%, rgba(14, 221, 34, 1) 91%);
+  text-align: center;
+}
+
+* {
+  font-family: 'Alata', sans-serif;
 }
